@@ -152,13 +152,14 @@
   }
   .content-3 form input {
     outline: none;
+    color: white;
   }
   .content-3 form .label {
     font-size: 10px;
     margin-top: 30px;
   }
   .content-3 form input {
-    width: 100%;
+    width: 80%;
   }
 }
 /*# sourceMappingURL=mediaquery.css.map */
